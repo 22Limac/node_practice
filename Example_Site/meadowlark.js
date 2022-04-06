@@ -9,9 +9,10 @@ const fortunes = [
   "Do not fear what you don't know",
   "You will have a pleasant surprise",
   "whenever possible keep it simple",
+  "even a broken clock is right twice a day",
 ];
 
-app.use(express.static(__dirname + '/public'))
+app.use(express.static(__dirname + "/public"));
 
 app.engine(
   "handlebars",
