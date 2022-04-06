@@ -1,0 +1,15 @@
+{
+  "name": "example_site",
+  "version": "1.0.0",
+  "description": "Site built following the web development with Node & Express by Ethan Brown",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3"
+  }
+}
