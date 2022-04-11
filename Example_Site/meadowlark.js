@@ -10,6 +10,7 @@ const fortunes = [
   "You will have a pleasant surprise",
   "whenever possible keep it simple",
   "even a broken clock is right twice a day",
+  "bigger they are the harder they fall",
 ];
 
 app.use(express.static(__dirname + "/public"));
